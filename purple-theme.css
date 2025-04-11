@@ -1,0 +1,76 @@
+:root {
+  --e-global-color-vamtam_accent_1: #6B46C1;
+  --e-global-color-vamtam_accent_2: #805AD5;
+  --e-global-color-vamtam_accent_3: #9F7AEA;
+  --e-global-color-vamtam_accent_4: #B794F4;
+  --e-global-color-vamtam_accent_5: #D6BCFA;
+  --e-global-color-vamtam_accent_6: #E9D8FD;
+  --e-global-color-vamtam_accent_7: #FAF5FF;
+  --e-global-color-vamtam_accent_8: #F3E8FF;
+}
+
+/* Override accent colors */
+.color-accent-1 {
+  color: var(--e-global-color-vamtam_accent_1) !important;
+}
+
+.color-accent-2 {
+  color: var(--e-global-color-vamtam_accent_2) !important;
+}
+
+.color-accent-3 {
+  color: var(--e-global-color-vamtam_accent_3) !important;
+}
+
+.color-accent-4 {
+  color: var(--e-global-color-vamtam_accent_4) !important;
+}
+
+.color-accent-5 {
+  color: var(--e-global-color-vamtam_accent_5) !important;
+}
+
+.color-accent-6 {
+  color: var(--e-global-color-vamtam_accent_6) !important;
+}
+
+.color-accent-7 {
+  color: var(--e-global-color-vamtam_accent_7) !important;
+}
+
+.color-accent-8 {
+  color: var(--e-global-color-vamtam_accent_8) !important;
+}
+
+/* Override background colors */
+.bg-accent-1 {
+  background-color: var(--e-global-color-vamtam_accent_1) !important;
+}
+
+.bg-accent-2 {
+  background-color: var(--e-global-color-vamtam_accent_2) !important;
+}
+
+.bg-accent-3 {
+  background-color: var(--e-global-color-vamtam_accent_3) !important;
+}
+
+.bg-accent-4 {
+  background-color: var(--e-global-color-vamtam_accent_4) !important;
+}
+
+.bg-accent-5 {
+  background-color: var(--e-global-color-vamtam_accent_5) !important;
+}
+
+.bg-accent-6 {
+  background-color: var(--e-global-color-vamtam_accent_6) !important;
+}
+
+.bg-accent-7 {
+  background-color: var(--e-global-color-vamtam_accent_7) !important;
+}
+
+.bg-accent-8 {
+  background-color: var(--e-global-color-vamtam_accent_8) !important;
+} 
